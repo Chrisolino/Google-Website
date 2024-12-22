@@ -1,10 +1,15 @@
-# Links für die Schulsperre
-. . #https://www.google.com/
-. . #https://discord.com/channels/
-. . #https://scratch.mit.edu/projects/805771279/
-. . #https://www.youtube.de/
-. . #https://www.twitch.tv/
-. . #https://www.poki.de/
-. . #https://chat.openai.com/chat
-. . #https://www.chess.com/
-. . #https://soap2dayhd.ru/
+## <h1>Websites in Onenote:</h1>
+* Onenote: https://www.onenote.com/notebooks
+* Google: https://www.google.com/
+* ChatGPT: https://chat.openai.com/chat
+* Poki: https://www.poki.de/
+* iServ: https://gw.ms.de/iserv/
+* Twitch: https://www.twitch.tv/
+* Chess.com: https://www.chess.com/
+* Reddit: https://libreddit.kavin.rocks
+* Youtube: https://www.youtube.de/
+* Tiktok: https://www.tiktok.com
+* Discord: https://discord.com/channels/
+* Scratch: https://scratch.mit.edu/projects/805771279/
+* Google Mail: https://mail.google.com/mail/
+* Outlook: https://outlook.live.com/mail
