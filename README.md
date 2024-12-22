@@ -7,8 +7,8 @@
 * Twitch: https://www.twitch.tv/
 * Chess.com: https://www.chess.com/
 * Reddit: https://libreddit.kavin.rocks
+* Blockaway: https://www.blockaway.net
 * Youtube: https://www.youtube.de/
-* Tiktok: https://www.tiktok.com
 * Discord: https://discord.com/channels/
 * Scratch: https://scratch.mit.edu/projects/805771279/
 * Google Mail: https://mail.google.com/mail/
